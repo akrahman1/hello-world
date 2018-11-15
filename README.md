@@ -69,3 +69,11 @@ As Shia LeBeouf once said:
 I think we should use an
 `<new>` element here instead.
 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
