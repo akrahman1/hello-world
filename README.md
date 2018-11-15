@@ -28,6 +28,5 @@ In the words of Shia LaBeouf:
 1. In Ordered Thing3
    1. In Ordered thing3a
    1. In Ordered thing3b
-   
-   ![Puppy](puppy.png)
-Format: ![Alt Text](url)
+
+This site is homepage of youtube [Youtube](https://www.youtube.com/).
