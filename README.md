@@ -41,17 +41,16 @@ In the words of Shia LaBeouf:
    - Cat
      - Horse
      
-- George Washington
-- John Adams
-- Thomas Jefferson
+- Dogs
+- Hamsters
+- Cats
 
-* George Washington
-* John Adams
-* Thomas Jefferson
+* House
+* Cabin
+* Mansion
  
- # This is the end of the lists section
  
-### Syntax Highlighting
+# Syntax Highlighting
 
  Some basic commands 'Syntax' Highlighting:
 
@@ -61,41 +60,41 @@ git add
 git commit
 ```
 
-### Links
+# Links
 
-This site is homepage of youtube [Youtube](https://www.youtube.com/).
+This site is homepage of [Youtube](https://www.youtube.com/).
 
-### Task Lists
+# Task Lists
 
 - [x] Start Homework
 - [x] Make Lunch
 - [ ] Finish Homework
 
 
-### Mentioning people/teams
+# Mentioning people/teams
 
 @ShiaLaBeouf Just do it!
 
-### Relative links
+# Relative links
 
-[Contribution for this assignemnt are:](/README1.md)
+[Contribution for this assignemnt is:](/README1.md)
 
-### Markdown formatting
+# Markdown formatting
 
 Let's rename \*NewSchoolProject\* to \*OldSchoolProjec\*.
 
-### Image
+# Image
 
 ![CodingPhoto](https://images.readwrite.com/wp-content/uploads/2018/04/coding-825x500.jpg)
 Format: ![JPG]
     
-### Repository
+# Repository
 
 #1
 mojombo#1
 mojombo/github-flavored-markdown#1
 
-### Blockquotes
+# Blockquotes
 
 As Shia LeBeouf once said:
 
@@ -104,12 +103,12 @@ As Shia LeBeouf once said:
 > Yesterday you said tomorrow
 > So just do it
 
-### Inline code
+# Inline code
 
 I think we should use an
 `<new>` element here instead.
 
-### Table
+# Table
 
 Marvel | DC
 ------------ | -------------
@@ -117,7 +116,7 @@ Stan Lee | Malcolm Wheeler-Nicholson
 Iron Man | Superman
 Hulk | Batman
 
-### Emoji
+# Emoji
 
 :pensive:
 
