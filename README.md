@@ -57,7 +57,7 @@ This site is homepage of youtube [Youtube](https://www.youtube.com/).
 Let's rename \*NewSchoolProject\* to \*OldSchoolProjec\*.
 
 ![Puppy](https://images.readwrite.com/wp-content/uploads/2018/04/coding-825x500.jpg)
-Format: ![Link](https://images.readwrite.com/wp-content/uploads/2018/04/coding-825x500.jpg)
+Format: ![JPG](JPG)
 
 As Shia LeBeouf once said:
 
