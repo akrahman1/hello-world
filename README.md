@@ -11,9 +11,9 @@ Project for Digital Production
 
 This is showing sizes of headings. 
 
-# This is the largest heading <h1> tag
-## This is the second largest heading <h2> tag
-#### This is the smallest heading <h3> tag
+# This is the largest heading  
+## This is the second largest heading 
+#### This is the smallest heading 
 
 # _This is a "heading" to show Bold and Italic_
 
@@ -79,7 +79,7 @@ This site is homepage of youtube [Youtube](https://www.youtube.com/).
 
 ### Relative links
 
-[Contribution for this assignemnt are:](/readme-edits.md)
+[Contribution for this assignemnt are:](/README1.md)
 
 ### Markdown formatting
 
