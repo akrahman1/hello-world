@@ -88,7 +88,7 @@ Let's rename \*NewSchoolProject\* to \*OldSchoolProjec\*.
 ### Image
 
 ![CodingPhoto](https://images.readwrite.com/wp-content/uploads/2018/04/coding-825x500.jpg)
-Format: ![JPG](JPG)
+Format: ![JPG]
     
 ### Repository
 
