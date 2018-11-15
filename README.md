@@ -11,7 +11,7 @@ Abigail Rahman
 ## This is the second largest heading 
 #### This is the smallest heading 
 
-# **This is a _heading_ to show Bold and Italic**
+# This is a _heading_ to show __Bold__ and _Italic_
 
 ~~This a heading to show strikethrough text~~
 
