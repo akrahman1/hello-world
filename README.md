@@ -31,13 +31,6 @@ In the words of Shia LaBeouf:
   * Thing 3b
   * Thing 4b
   
-  
-1. In Ordered 
-  1. In Ordered Thing1
-  1. In Ordered Thing2
-    1. In Ordered thing2a
-    1. In Ordered thing2b
-  
 1. Dog
    - Cat
      - Horse
