@@ -79,7 +79,7 @@ This site is homepage of youtube [Youtube](https://www.youtube.com/).
 
 ### Relative links
 
-[Contribution for this assignemnt are:](/readme-edits)
+[Contribution for this assignemnt are:](/readme-edits.md)
 
 ### Markdown formatting
 
