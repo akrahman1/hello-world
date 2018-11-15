@@ -116,7 +116,7 @@ Hulk | Batman
 
 # Section Link
 
-Here is an example of an Section link :[SectionLink](https://github.com/akrahman1/hello-world/blob/readme-edits/README.md#lists)
+Here is an example of an Section link :[Lists](https://github.com/akrahman1/hello-world/blob/readme-edits/README.md#lists)
 
 # Emoji
 
