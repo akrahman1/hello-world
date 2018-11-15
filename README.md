@@ -77,3 +77,10 @@ function fancyAlert(arg) {
 }
 ```
 
+Marvel | DC
+------------ | -------------
+Stan Lee | Malcolm Wheeler-Nicholson
+Iron Man | Superman
+Hulk | Batman
+
+:pensive:
