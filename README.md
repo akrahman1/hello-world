@@ -59,4 +59,13 @@ Let's rename \*NewSchoolProject\* to \*OldSchoolProjec\*.
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
+As Shia LeBeouf once said:
+
+> Just do it!
+> Don't let your dreams be dreams
+> Yesterday you said tomorrow
+> So just do it
+
+I think we should use an
+`<new>` element here instead.
 
