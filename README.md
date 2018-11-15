@@ -18,6 +18,8 @@ In the words of Shia LaBeouf:
 
 > Just do it!
 
+# This is a second for lists
+
 * Thing 1
 * Thing 2
   * Thing 3b
@@ -28,5 +30,9 @@ In the words of Shia LaBeouf:
 1. In Ordered Thing3
    1. In Ordered thing3a
    1. In Ordered thing3b
+  
+1. Dog
+   - Cat
+     - Horse
 
 This site is homepage of youtube [Youtube](https://www.youtube.com/).
