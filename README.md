@@ -1,6 +1,9 @@
 # hello-world
 Abigail Rahman
-# Project for Digital Production #
+
+Assignment 04
+
+**Project for Digital Production**
 
 ### **Hubot here, I like Node.js and Coffeescript (thats what Im made of!).**
 ### Ive had tacos on the moon and find them far suprior to Earth Tacos. 
@@ -12,6 +15,7 @@ Abigail Rahman
 #### This is the smallest heading 
 
 This is a heading to show **Bold** and _Italic_
+
 **This is a heading to show Bold and _Italic_**
 
 ~~This a heading to show strikethrough text~~
