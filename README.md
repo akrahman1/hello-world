@@ -30,14 +30,16 @@ In the words of Shia LaBeouf:
 * Thing 2
   * Thing 3b
   * Thing 4b
+
+1. Cat
+1. Horse
+1. Dog
+   1. Wolf 
+   1. Puppy
   
 1. Dog
    - Cat
      - Horse
-     
-1 Dogs
-2 Hamsters
-3 Cats
 
 * House
 * Cabin
