@@ -34,5 +34,14 @@ In the words of Shia LaBeouf:
 1. Dog
    - Cat
      - Horse
+ 
+ # This is the end of the lists section
+ 
+ Some basic commands for git are:
+```
+git status
+git add
+git commit
+```
 
 This site is homepage of youtube [Youtube](https://www.youtube.com/).
