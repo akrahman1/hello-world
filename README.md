@@ -52,11 +52,11 @@ This site is homepage of youtube [Youtube](https://www.youtube.com/).
 
 @ShiaLaBeouf Just do it!
 
-[Contribution for this assignemnt are:](docs/CONTRIBUTING.md)
+[Contribution for this assignemnt are:](https://www.facebook.com/abigail.rahman.1)
 
 Let's rename \*NewSchoolProject\* to \*OldSchoolProjec\*.
 
-![Puppy](https://images.readwrite.com/wp-content/uploads/2018/04/coding-825x500.jpg)
+![CodingPhoto](https://images.readwrite.com/wp-content/uploads/2018/04/coding-825x500.jpg)
 Format: ![JPG](JPG)
 
 As Shia LeBeouf once said:
