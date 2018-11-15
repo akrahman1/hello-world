@@ -45,3 +45,18 @@ git commit
 ```
 
 This site is homepage of youtube [Youtube](https://www.youtube.com/).
+
+- [x] Start Homework
+- [x] Make Lunch
+- [ ] Finish Homework
+
+@ShiaLaBeouf Just do it!
+
+[Contribution for this assignemnt are:](docs/CONTRIBUTING.md)
+
+Let's rename \*NewSchoolProject\* to \*OldSchoolProjec\*.
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
