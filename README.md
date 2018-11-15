@@ -32,8 +32,8 @@ In the words of Shia LaBeouf:
   * Thing 4b
   
   1. In Ordered thing1
-1. In Ordered Thing2
-1. In Ordered Thing3
+   1. In Ordered Thing2
+   1. In Ordered Thing3
    1. In Ordered thing3a
    1. In Ordered thing3b
   
@@ -41,9 +41,9 @@ In the words of Shia LaBeouf:
    - Cat
      - Horse
      
-- Dogs
-- Hamsters
-- Cats
+1 Dogs
+2 Hamsters
+3 Cats
 
 * House
 * Cabin
