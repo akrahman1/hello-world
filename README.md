@@ -33,8 +33,8 @@ In the words of Shia LaBeouf:
   
   
 1. In Ordered 
-   1. In Ordered Thing1
-   1. In Ordered Thing2
+  1. In Ordered Thing1
+  1. In Ordered Thing2
     1. In Ordered thing2a
     1. In Ordered thing2b
   
