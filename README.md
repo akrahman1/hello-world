@@ -17,3 +17,17 @@ This is showing sizes of headings.
 In the words of Shia LaBeouf:
 
 > Just do it!
+
+* Thing 1
+* Thing 2
+  * Thing 3b
+  * Thing 4b
+  
+  1. In Ordered thing1
+1. In Ordered Thing2
+1. In Ordered Thing3
+   1. In Ordered thing3a
+   1. In Ordered thing3b
+   
+   ![Puppy](puppy.png)
+Format: ![Alt Text](url)
