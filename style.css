@@ -1,0 +1,35 @@
+html {
+  background-color: #1AA5A8;
+}
+
+
+h1 {
+  font-size: 65px;
+  text-align: left;
+  letter-spacing: 1px;
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+}
+
+h1 {
+  margin: 0;
+  padding: 10px 0;    
+  color: #00FF4E;
+  text-shadow: 2px 2px 1px black;
+}
+
+
+p, p1, p2, ul, h1, li {
+  color: whitesmoke;
+}
+
+body {
+  width: 650px;
+  margin: 0 auto;
+  background-color: #EF9325;
+  padding: 0 25px 25px 25px;
+  border: 10px solid black;
+}
